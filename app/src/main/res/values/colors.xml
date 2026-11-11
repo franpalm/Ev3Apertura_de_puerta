@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+
+    <!-- Colores simples de interfaz -->
+    <color name="bg_light">#F5F7FA</color>
+    <color name="card_white">#FFFFFF</color>
+    <color name="border_gray">#D0D7DE</color>
+
+    <!-- Azul principal -->
+    <color name="tech_blue_primary">#1976D2</color>
+    <color name="tech_blue_dark">#1565C0</color>
+
+    <!-- Estados -->
+    <color name="state_active_green">#2E7D32</color>
+    <color name="state_inactive_red">#D32F2F</color>
+    <color name="state_motion_blue">#0288D1</color>
+    <color name="state_warning_amber">#EF6C00</color>
+
+    <!-- Textos -->
+    <color name="text_primary">#1E293B</color>
+    <color name="text_secondary">#64748B</color>
+</resources>

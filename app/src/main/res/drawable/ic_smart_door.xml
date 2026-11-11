@@ -1,0 +1,62 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="100"
+    android:viewportHeight="100">
+
+    <!-- Marco exterior de la puerta -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#1976D2"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M24,90 L24,18 C24,14.7 26.7,12 30,12 L70,12 C73.3,12 76,14.7 76,18 L76,90" />
+
+    <!-- Hoja interior de la puerta con perspectiva tecnológica -->
+    <path
+        android:fillColor="#1E293B"
+        android:strokeColor="#0284C7"
+        android:strokeWidth="2.5"
+        android:pathData="M30,18 L70,18 L70,88 L30,88 Z" />
+
+    <!-- Ranura / cerradura electrónica inteligente -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M60,50 A4,4 0 1,1 60,50.1 Z" />
+
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#00E5FF"
+        android:strokeWidth="2"
+        android:strokeLineCap="round"
+        android:pathData="M60,54 L60,60" />
+
+    <!-- Sensor / Ondas de señal inalámbrica IoT en la parte superior -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#10B981"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:pathData="M40,32 C45,28 55,28 60,32" />
+
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#34D399"
+        android:strokeWidth="2"
+        android:strokeLineCap="round"
+        android:pathData="M44,38 C47,35 53,35 56,38" />
+
+    <!-- Punto del sensor -->
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M50,44 A2,2 0 1,1 50,44.1 Z" />
+
+    <!-- Línea de suelo base -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#64748B"
+        android:strokeWidth="3"
+        android:strokeLineCap="round"
+        android:pathData="M14,90 L86,90" />
+</vector>

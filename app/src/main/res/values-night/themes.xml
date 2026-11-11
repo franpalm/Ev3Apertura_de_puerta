@@ -1,0 +1,5 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.Ev3Apertura_de_puerta" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/tech_blue_primary</item>
+    </style>
+</resources>
